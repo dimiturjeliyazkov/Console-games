@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8PoJof9ewAyocC6u7jzaFWX5C/vGD3klfrFaIsffFhgeb82v20UWXFxM59dgaMen0zk5lgCztnLRjdgS0iI1cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}

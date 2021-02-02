@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Dino\Fight\bin\Debug\netcoreapp3.1\Fight.exe
+C:\Users\user\source\repos\Dino\Fight\bin\Debug\netcoreapp3.1\Fight.deps.json
+C:\Users\user\source\repos\Dino\Fight\bin\Debug\netcoreapp3.1\Fight.runtimeconfig.json
+C:\Users\user\source\repos\Dino\Fight\bin\Debug\netcoreapp3.1\Fight.runtimeconfig.dev.json
+C:\Users\user\source\repos\Dino\Fight\bin\Debug\netcoreapp3.1\Fight.dll
+C:\Users\user\source\repos\Dino\Fight\bin\Debug\netcoreapp3.1\Fight.pdb
+C:\Users\user\source\repos\Dino\Fight\obj\Debug\netcoreapp3.1\Fight.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Dino\Fight\obj\Debug\netcoreapp3.1\Fight.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Dino\Fight\obj\Debug\netcoreapp3.1\Fight.AssemblyInfo.cs
+C:\Users\user\source\repos\Dino\Fight\obj\Debug\netcoreapp3.1\Fight.dll
+C:\Users\user\source\repos\Dino\Fight\obj\Debug\netcoreapp3.1\Fight.pdb
+C:\Users\user\source\repos\Dino\Fight\obj\Debug\netcoreapp3.1\Fight.genruntimeconfig.cache
+C:\Users\user\source\repos\Dino\Fight\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+C:\Users\user\source\repos\Dino\Fight\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+C:\Users\user\source\repos\Dino\Fight\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+C:\Users\user\source\repos\Dino\Fight\obj\Debug\netcoreapp3.1\Fight.csproj.CopyComplete

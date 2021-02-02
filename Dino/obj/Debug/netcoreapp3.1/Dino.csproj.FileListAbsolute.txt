@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\netcoreapp3.1\Dino.exe
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\netcoreapp3.1\Dino.deps.json
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\netcoreapp3.1\Dino.runtimeconfig.json
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\netcoreapp3.1\Dino.runtimeconfig.dev.json
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\netcoreapp3.1\Dino.dll
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\netcoreapp3.1\Dino.pdb
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\netcoreapp3.1\Dino.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\netcoreapp3.1\Dino.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\netcoreapp3.1\Dino.AssemblyInfo.cs
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\netcoreapp3.1\Dino.dll
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\netcoreapp3.1\Dino.pdb
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\netcoreapp3.1\Dino.genruntimeconfig.cache

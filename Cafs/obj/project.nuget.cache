@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtGPhJqMtY0GylAAgxlSTsqCssymSVhiKX+ha3Er1CtGobFsNwgVhotKGN+8t1XjPQ9Q8uD7V0BJbPQ0TacmMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\Cars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
