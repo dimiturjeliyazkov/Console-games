@@ -285,15 +285,26 @@ namespace Fight
                 firstPlayer.PrintHealth(2, 2, firstPlayer);
                 secondPlayer.PrintHealth(Console.WindowWidth - secondPlayer.health - 2, 2, secondPlayer);
             }
-               Console.SetCursorPosition(Console.WindowWidth / 2, 1);
-                if(firstPlayer.IsDead == false)
-                {
-                    Console.Write("Player one wins!");
-                }
-                else
-                {
-                    Console.Write("Player two wins!");
-                }
+            Console.SetCursorPosition(Console.WindowWidth / 2, 1);
+            if(firstPlayer.IsDead == false)
+            {
+                Console.Write("Player one wins!");
+                Console.SetCursorPosition(Console.WindowWidth / 2, 1);
+                Console.Write("Press Enter to continue...");
+            }
+            else
+            {
+                Console.Write("Player two wins!");
+                Console.SetCursorPosition(Console.WindowWidth / 2, 1);
+                Console.Write("Press Enter to continue...");
+            }
+            
+            ConsoleKeyInfo user = Console.ReadKey();
+            while (user.Key != ConsoleKey.Enter)
+            {
+
+            }
+
         }
         private static void LaunchTheSpear(Fighter fighter, int startX, int startY)
         {

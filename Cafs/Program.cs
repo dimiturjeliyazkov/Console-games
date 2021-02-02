@@ -158,7 +158,13 @@ namespace Cafs
                 }
                 Console.Clear();
             }
-            Console.WriteLine("Game over!\nYour points are {0}",points);
+            Console.WriteLine("Game over!\nYour points are {0}\nPress Enter to continue...",points);
+            ConsoleKeyInfo user = Console.ReadKey();
+            while (user.Key != ConsoleKey.Enter)
+            {
+
+            }
+
         }
         static void drawField()
         {

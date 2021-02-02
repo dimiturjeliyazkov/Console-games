@@ -272,7 +272,14 @@ namespace Dino
                 
             }
             Console.WriteLine("Game over!\n" +
-                "Your points are {0}",points);
+                "Your points are {0}\n" +
+                "press Enter to continue...", points);
+            ConsoleKeyInfo user = Console.ReadKey();
+            while(user.Key != ConsoleKey.Enter)
+            {
+               
+            }
+                
         }
         
     }
