@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Dino\\Central\\Central.csproj": {}
+    "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\Central.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\Cars.csproj": {
+    "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\Cars.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj",
         "projectName": "Cars",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\Cars.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Dino\\Central\\Central.csproj": {
+    "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\Central.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Dino\\Central\\Central.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\Central.csproj",
         "projectName": "Central",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Central\\Central.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\Central.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Dino\\Central\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,14 +87,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\Cars.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\Cars.csproj"
+              "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\Dino\\Dino\\Dino.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Dino\\Dino.csproj"
+              "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj"
+              "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj"
               },
               "C:\\Users\\user\\source\\repos\\snake\\snake\\Snake.csproj": {
                 "projectPath": "C:\\Users\\user\\source\\repos\\snake\\snake\\Snake.csproj"
@@ -137,14 +137,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Dino\\Dino\\Dino.csproj": {
+    "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Dino\\Dino\\Dino.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj",
         "projectName": "Dino",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Dino\\Dino.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Dino\\Dino\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -197,14 +197,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj": {
+    "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj",
         "projectName": "Fight",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Dino\\Fight\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

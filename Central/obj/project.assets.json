@@ -491,11 +491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Dino\\Central\\Central.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\Central.csproj",
       "projectName": "Central",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Central\\Central.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\Central.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Dino\\Central\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -511,14 +511,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\Cars.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\Cars.csproj"
+            "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\Dino\\Dino\\Dino.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Dino\\Dino.csproj"
+            "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj"
+            "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj"
             },
             "C:\\Users\\user\\source\\repos\\snake\\snake\\Snake.csproj": {
               "projectPath": "C:\\Users\\user\\source\\repos\\snake\\snake\\Snake.csproj"

@@ -191,11 +191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Dino\\Dino\\Dino.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj",
       "projectName": "Dino",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Dino\\Dino.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Dino\\Dino\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

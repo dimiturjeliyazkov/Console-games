@@ -191,11 +191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\Cars.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj",
       "projectName": "Cars",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\Cars.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Dino\\Cafs\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

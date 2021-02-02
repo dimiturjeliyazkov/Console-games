@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj": {}
+    "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj": {
+    "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj",
         "projectName": "Fight",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Dino\\Fight\\Fight.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Dino\\Fight\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
