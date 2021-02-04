@@ -63,7 +63,6 @@ namespace Central
             while (true)
             {
                 Field.PrintField(fieldSprinkel++);
-                string[] pedal = new string[5];
                 if (Console.KeyAvailable)
                 {
 
@@ -82,19 +81,19 @@ namespace Central
                     {
                         if (Selectedposition == 0)
                         {
-                            Dino.Program.Main(pedal);
+                            Dino.Program.Main(new string[1]);
                         }
                         else if (Selectedposition == 1)
                         {
-                            Fight.Program.Main(pedal);
+                            Fight.Program.Main(new string[1]);
                         }
                         else if (Selectedposition == 2)
                         {
-                            snake.Program.Main(pedal);
+                            snake.Program.Main(new string[1]);
                         }
                         else if (Selectedposition == 3)
                         {
-                            Cafs.Program.Main(pedal);
+                            Cafs.Program.Main(new string[1]);
                         }
                     }
                     Console.Clear();
