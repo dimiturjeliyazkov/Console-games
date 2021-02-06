@@ -162,7 +162,7 @@ namespace Cafs
             ConsoleKeyInfo user = Console.ReadKey();
             while (user.Key != ConsoleKey.Enter)
             {
-
+                user = Console.ReadKey();
             }
 
         }

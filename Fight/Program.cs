@@ -302,7 +302,7 @@ namespace Fight
             ConsoleKeyInfo user = Console.ReadKey();
             while (user.Key != ConsoleKey.Enter)
             {
-
+                user = Console.ReadKey();
             }
 
         }
