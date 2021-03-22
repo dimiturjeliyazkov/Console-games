@@ -78,24 +78,28 @@ namespace Fight
                     playerCordinations.Add(new Cordinat(x - 1, y + 9 + i + spaceBetweenLegs + 1));
                     Console.Write('*' + new string(' ', spaceBetweenLegs) + '*');
                     spaceBetweenLegs += 2;
+
                 }
             }
             else if(IsHeSquatting == true)
             {
-                
-                if(alreadySquatting == 1)
+                Squatting(x, y);
+                if (alreadySquatting == 1)
                 {
+                    
                     this.y += 4;
                     alreadySquatting = 2;
+                    Console.Clear();
                 }
-
-                Squatting(x, y);
+                
+                
                  
               //  IsHeSquatting = false;
             }
             if (jumpingCounter > 1)
             {
                 Squatting(x, y);
+
             }
             else if(jumpingCounter == 1)
             {
@@ -122,6 +126,7 @@ namespace Fight
         }
         public void Squatting(int x,int y)
         {
+            
             Console.SetCursorPosition(x - 1, y + 8);
             playerCordinations.Add(new Cordinat(x - 1, y + 8));
             Console.Write('*');
@@ -139,6 +144,7 @@ namespace Fight
                 playerCordinations.Add(new Cordinat(x + 4 + i, y + 7 + i));
                 Console.Write('*');
             }
+
         }
         abstract public void BladeAttacking(int x, int y);
 

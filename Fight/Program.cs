@@ -22,6 +22,7 @@ namespace Fight
 
         public static void Main(string[] args)
         {
+            Console.Clear();
             Console.ForegroundColor = ConsoleColor.Red;
             Fighter firstPlayer = new FirstFighter(10, Console.WindowHeight-15,3);                             // creating fighters
             Fighter secondPlayer = new SecondFighter(Console.WindowWidth-10, Console.WindowHeight - 15, 10, 10);     // creating fighters
@@ -53,11 +54,13 @@ namespace Fight
                     {
                         if(firstPlayer.x + 8 < Console.WindowWidth-3)
                         firstPlayer.x += 3;
+                        Console.Clear();
                     }
                     else if(usr.Key == ConsoleKey.A)        //moving the left fighter 
                     {
                         if(firstPlayer.x-3 > 3 )
                         firstPlayer.x -= 3;
+                        Console.Clear();
                     }
 
 
@@ -65,11 +68,13 @@ namespace Fight
                     {
                         if (secondPlayer.x - 6 > 3)
                             secondPlayer.x -= 3;
+                        Console.Clear();
                     }
                     else if(usr.Key == ConsoleKey.RightArrow)        //moving the right fighter 
                     {
                         if (secondPlayer.x + 7 < Console.WindowWidth - 3)
                         secondPlayer.x += 3;
+                        Console.Clear();
                     }
 
 
@@ -97,6 +102,7 @@ namespace Fight
                             firstPlayer.IsHeSquatting = false;
                             firstPlayer.y -= 4;
                             firstPlayer.alreadySquatting = 1;
+                            Console.Clear();
                         }
                         else
                         {
@@ -114,11 +120,11 @@ namespace Fight
                             secondPlayer.IsHeSquatting = false;
                             secondPlayer.y -= 4;
                             secondPlayer.alreadySquatting = 1;
+                            Console.Clear();
                         }
                         else
                         {
                            secondPlayer.isJumping = true;         // jumping right fighter 
-
                         }
                     }
 
@@ -227,7 +233,7 @@ namespace Fight
                 secondPlayer.PrintHealth(Console.WindowWidth - secondPlayer.health-2, 2,secondPlayer );
                 
 
-                System.Threading.Thread.Sleep(20);
+                System.Threading.Thread.Sleep(4);
                 
                 foreach (var Plcordinat in firstPlayer.playerCordinations)
                 {
@@ -281,7 +287,7 @@ namespace Fight
                 secondPlayer.weapons.Clear();
                 secondPlayer.playerCordinations.Clear();
                 if(firstPlayer.IsDead == false && secondPlayer.IsDead == false)
-                Console.Clear();
+               
                 firstPlayer.PrintHealth(2, 2, firstPlayer);
                 secondPlayer.PrintHealth(Console.WindowWidth - secondPlayer.health - 2, 2, secondPlayer);
             }
@@ -312,11 +318,13 @@ namespace Fight
             {
                 if(startX + 4 + fighter.SpearMovement + 11 < Console.WindowWidth)
                 {
+                    Console.Clear();
                     fighter.PrintTheSpear(startX + 4 + fighter.SpearMovement, startY);
                     fighter.SpearMovement += 5;
                 }
                 else
                 {
+                    Console.Clear();
                     fighter.SpearMovement = 0;
                     fighter.IsThrowingSpear = false;
                 }
@@ -325,15 +333,18 @@ namespace Fight
             {
                 if (startX - 4 - fighter.SpearMovement - 1 > 0)
                 {
+                    Console.Clear();
                     fighter.PrintTheSpear(startX - 4 - fighter.SpearMovement, startY);
                     fighter.SpearMovement += 5;
                 }
                 else
                 {
+                    Console.Clear();
                     fighter.SpearMovement = 8;
                     fighter.IsThrowingSpear = false;
                 }
-            }   
+            }
+            
         }
         private static void LaunchTheBall (Fighter fighter,int x,int y)
         {
@@ -341,11 +352,13 @@ namespace Fight
             {
                 if (x + fighter.FireBallDirection + 7 < Console.WindowWidth)
                 {
+                    Console.Clear();
                     fighter.PrintFireBall(x + fighter.FireBallDirection, y);
                     fighter.FireBallDirection += 4;
                 }
                 else
                 {
+                    Console.Clear();
                     fighter.IsShoutingFireBall = false;
                     fighter.FireBallDirection = 2;
                     fighter.IsFireballAlreadyFlying = false;
@@ -355,18 +368,20 @@ namespace Fight
             {
                 if(x - fighter.FireBallDirection+4 > 0)
                 {
+                    Console.Clear();
                     fighter.PrintFireBall(x - fighter.FireBallDirection, y);
                     fighter.FireBallDirection += 4;
                 }
                 else
                 {
+                    Console.Clear();
                     fighter.IsShoutingFireBall = false;
                     fighter.FireBallDirection = 10;
                     fighter.IsFireballAlreadyFlying = false;
                 }
             }
-            
-            
+
+           
         }
         private static void jump(ref Fighter fighter, ref bool isFallingDown, ref int jumpingCounter, ref bool isJumping)
         {
@@ -375,11 +390,13 @@ namespace Fight
                 jumpingCounter++;
                 
                 fighter.y -= 2;
+                Console.Clear();
             }
             else
             {
                 fighter.y += 2;
                 jumpingCounter--;
+                Console.Clear();
                 if (jumpingCounter == 0)
                 {
                     isJumping = false;
@@ -391,6 +408,7 @@ namespace Fight
                 
                 isFallingDown = true;
             }
+            
         }
         private static void DrawRoad(int x, int y)
         {
@@ -403,15 +421,20 @@ namespace Fight
             {
                 if (fighter.bladeStaying != 4)
                 {
+                    
                     fighter.BladeAttacking(fighter.x, fighter.y);
                     fighter.bladeStaying++;
+                    
                 }
                 else
                 {
+                    Console.Clear();
                     fighter.activeBlade = false;
                     fighter.bladeStaying = 0;
                 }
+                
             }
+            
         }
     }
 }
