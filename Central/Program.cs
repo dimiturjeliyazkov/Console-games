@@ -38,18 +38,18 @@ namespace Central
             {
                 
                 Console.SetCursorPosition(x + 2, y + 4);
-                Console.Write(new string('*',10));
+                Console.Write(new string('*',game.Length+4));
 
                 for (int i = 0; i < 3; i++)
                 {
                     Console.SetCursorPosition(x + 2, y + 4+i);
                     Console.Write('*');
-                    Console.SetCursorPosition(x + 12, y + 4 + i);
+                    Console.SetCursorPosition(x + game.Length + 5, y + 4 + i);
                     Console.Write('*');
                 }
 
                 Console.SetCursorPosition(x + 2, y + 6);
-                Console.Write(new string('*', 10));
+                Console.Write(new string('*', game.Length + 4));
                 Console.SetCursorPosition(x+4, y+5);
                 Console.Write(game);
 

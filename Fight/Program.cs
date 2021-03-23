@@ -318,7 +318,8 @@ namespace Fight
             {
                 if(startX + 4 + fighter.SpearMovement + 11 < Console.WindowWidth)
                 {
-                    Console.Clear();
+                    if (fighter.IsShoutingFireBall == false)
+                        Console.Clear();
                     fighter.PrintTheSpear(startX + 4 + fighter.SpearMovement, startY);
                     fighter.SpearMovement += 5;
                 }
@@ -333,7 +334,8 @@ namespace Fight
             {
                 if (startX - 4 - fighter.SpearMovement - 1 > 0)
                 {
-                    Console.Clear();
+                    if (fighter.IsShoutingFireBall == false)
+                        Console.Clear();
                     fighter.PrintTheSpear(startX - 4 - fighter.SpearMovement, startY);
                     fighter.SpearMovement += 5;
                 }
@@ -352,9 +354,10 @@ namespace Fight
             {
                 if (x + fighter.FireBallDirection + 7 < Console.WindowWidth)
                 {
+                   
                     Console.Clear();
                     fighter.PrintFireBall(x + fighter.FireBallDirection, y);
-                    fighter.FireBallDirection += 4;
+                    fighter.FireBallDirection += 2;
                 }
                 else
                 {
@@ -367,13 +370,15 @@ namespace Fight
             else
             {
                 if(x - fighter.FireBallDirection+4 > 0)
-                {
+                { 
+                   
                     Console.Clear();
                     fighter.PrintFireBall(x - fighter.FireBallDirection, y);
-                    fighter.FireBallDirection += 4;
+                    fighter.FireBallDirection += 2;
                 }
                 else
                 {
+
                     Console.Clear();
                     fighter.IsShoutingFireBall = false;
                     fighter.FireBallDirection = 10;
