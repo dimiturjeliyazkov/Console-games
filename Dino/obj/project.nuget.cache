@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LzhkeKce7s0mN6dxDoe5GXd6bE+cxZSMsOw16iMacQbnEl4T3DfBzqA4W+3hag50EXEsKZi7VWhTf4p6Rq8qdA==",
+  "dgSpecHash": "4FM9x57eOafUQRgJLZc1MxY8/XBLtfbyf+xlT1I6Q8J1g2uqTaF9XQ7l2tCFeJAFPHq4iUZbURhYcmkcMwmicQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj",
+  "projectFilePath": "C:\\Users\\domin\\source\\repos\\Console-games\\Dino\\Dino.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

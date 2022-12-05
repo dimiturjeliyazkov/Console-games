@@ -472,8 +472,8 @@
     },
     "Snake/1.0.0": {
       "type": "project",
-      "path": "../../snake/snake/Snake.csproj",
-      "msbuildProject": "../../snake/snake/Snake.csproj"
+      "path": "../Snake/Snake.csproj",
+      "msbuildProject": "../Snake/Snake.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -486,19 +486,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\domin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\Central.csproj",
+      "projectUniqueName": "C:\\Users\\domin\\source\\repos\\Console-games\\Central\\Central.csproj",
       "projectName": "Central",
-      "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\Central.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\obj\\",
+      "projectPath": "C:\\Users\\domin\\source\\repos\\Console-games\\Central\\Central.csproj",
+      "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\domin\\source\\repos\\Console-games\\Central\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -510,18 +515,19 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj"
+            "C:\\Users\\domin\\source\\repos\\Console-games\\Cafs\\Cars.csproj": {
+              "projectPath": "C:\\Users\\domin\\source\\repos\\Console-games\\Cafs\\Cars.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Dino\\Dino.csproj"
+            "C:\\Users\\domin\\source\\repos\\Console-games\\Dino\\Dino.csproj": {
+              "projectPath": "C:\\Users\\domin\\source\\repos\\Console-games\\Dino\\Dino.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Fight\\Fight.csproj"
+            "C:\\Users\\domin\\source\\repos\\Console-games\\Fight\\Fight.csproj": {
+              "projectPath": "C:\\Users\\domin\\source\\repos\\Console-games\\Fight\\Fight.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\snake\\snake\\Snake.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\snake\\snake\\Snake.csproj"
+            "C:\\Users\\domin\\source\\repos\\Console-games\\Snake\\Snake.csproj": {
+              "projectPath": "C:\\Users\\domin\\source\\repos\\Console-games\\Snake\\Snake.csproj"
             }
           }
         }
@@ -534,6 +540,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.SourceLink.GitHub": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -557,7 +564,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

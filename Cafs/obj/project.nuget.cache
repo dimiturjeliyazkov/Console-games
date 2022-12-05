@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7TRlFfSvONh7nIhQy8SLZt40xZEwpygVc0PHNKpZRmNDT+CHpCdBkeXHeMEUurK42fS3pwgBhKWIfu+130ju+g==",
+  "dgSpecHash": "aungfrE9x8A/Mtukp8XVUTqUBM6WipaXhmw0BonQVqZZkayTGAwm45o0rzX1XKvjYCymdEB0GjhF/B3snAfwkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Cafs\\Cars.csproj",
+  "projectFilePath": "C:\\Users\\domin\\source\\repos\\Console-games\\Cafs\\Cars.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

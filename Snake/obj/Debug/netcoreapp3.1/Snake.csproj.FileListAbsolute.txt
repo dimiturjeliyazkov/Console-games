@@ -1,0 +1,14 @@
+C:\Users\domin\source\repos\Console-games\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\domin\source\repos\Console-games\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\domin\source\repos\Console-games\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\domin\source\repos\Console-games\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\domin\source\repos\Console-games\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\domin\source\repos\Console-games\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\domin\source\repos\Console-games\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\Console-games\Snake\obj\Debug\netcoreapp3.1\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\source\repos\Console-games\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\Console-games\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\domin\source\repos\Console-games\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\Console-games\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\domin\source\repos\Console-games\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\domin\source\repos\Console-games\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache

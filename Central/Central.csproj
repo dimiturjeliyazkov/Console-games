@@ -13,10 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\snake\snake\Snake.csproj" />
     <ProjectReference Include="..\Cafs\Cars.csproj" />
     <ProjectReference Include="..\Dino\Dino.csproj" />
     <ProjectReference Include="..\Fight\Fight.csproj" />
+    <ProjectReference Include="..\Snake\Snake.csproj" />
   </ItemGroup>
-
+    
 </Project>

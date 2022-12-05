@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PUiaO3ygYiUzQlROY894KCqpe4GAwwce0ntXLPD5dIMTkh4KnJmxK+uf7qwqvCJDM3i904JySWZyzjtLr2R5Cw==",
+  "dgSpecHash": "3NuhqJXrUXbwhr1KiBHmXvYRTzHKrObpwoaywaDV8OXdjzA9L0eKAiFoaqGf8hL5w94JgK77x97E2haLHazUEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\DinoRepos\\Central\\Central.csproj",
+  "projectFilePath": "C:\\Users\\domin\\source\\repos\\Console-games\\Central\\Central.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
   ],
   "logs": []
 }

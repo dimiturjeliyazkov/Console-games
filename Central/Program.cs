@@ -85,15 +85,16 @@ namespace Central
                         }
                         else if (Selectedposition == 1)
                         {
+                            
                             Fight.Program.Main(new string[1]);
                         }
                         else if (Selectedposition == 2)
                         {
-                            snake.Program.Main(new string[1]);
+                            Snake.Program.Main(new string[1]);
                         }
                         else if (Selectedposition == 3)
                         {
-                            Cafs.Program.Main(new string[1]);
+                            Cars.Program.Main(new string[1]);
                         }
                     }
                     Console.Clear();
